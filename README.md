@@ -1,4 +1,4 @@
-# Hi there, I'm Luke 👋
+# Hi there, I'm [Luke](https://lukemccl.github.io) 👋
 
 [![Website](https://img.shields.io/website?label=https://lukemccl.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lukemccl.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%luke_mccl&screen_name=luke_mccl)
@@ -17,12 +17,10 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) 
-
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter) 
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) ![Node](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)  
 ![REACT](https://img.shields.io/badge/React-05122A?style=flat&logo=react) 
