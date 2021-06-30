@@ -1,7 +1,7 @@
 # Hi there, I'm [Luke](https://lukemccl.github.io) 👋
 
 [![Website](https://img.shields.io/website?label=https://lukemccl.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lukemccl.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%luke_mccl&screen_name=luke_mccl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=984385260)
 
 ## I'm a full stack developer and have a Masters degree in AI!!
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently re-learning React and more web based technologies
 - 🥅 2021 Goals: Adapt to life after university
 - ⚡ Fun fact: I love going to gym and pushing myself!
-- 🌐 Find out more at my (currently under construction) [personal site!](https://lukemccl.github.io)
+- 🌐 Find out more at my (currently under construction) personal site: [lukemccl.github.io](https://lukemccl.github.io)
 
 ## &#128295; Languages and Tools:
 
