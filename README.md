@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=https://lukemccl.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lukemccl.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%luke_mccl&screen_name=luke_mccl)
 
-## I'm a recent AI graduate!!
+# I'm a full stack developer and a recent Masters in AI graduate!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -11,16 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="lukemccl Spotify Playing" width="350" />](https://open.spotify.com/user/1198588633)
-
-### Connect with me:
-
-[<img align="left" alt="https://lukemccl.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="luke_mccl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Luke McClure | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="l.mccl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,9 +29,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
-<br />
-
----
 
 ## &#x1f4c8; GitHub Stats
 
@@ -51,6 +38,15 @@
 <a href="https://github.com/lukemccl/lukemccl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemccl&theme=nord&langs_count=3" />
 </a>
+
+<br/>
+
+### Connect with me:
+
+[<img align="left" alt="https://lukemccl.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="luke_mccl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Luke McClure | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="l.mccl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://lukemccl.github.io
 [twitter]: https://twitter.com/luke_mccl
