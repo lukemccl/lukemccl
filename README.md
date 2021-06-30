@@ -12,9 +12,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 
-<br />
-
-## Languages and Tools:
+## &#128295; Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
@@ -31,8 +29,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-<br />
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/lukemccl/lukemccl">
@@ -41,8 +37,6 @@
 <a href="https://github.com/lukemccl/lukemccl">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemccl&theme=nord&langs_count=3" />
 </a>
-
-<br/>
 
 ### Connect with me:
 
