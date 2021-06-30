@@ -5,8 +5,8 @@
 
 ## I'm a full stack developer and have a Masters degree in AI!!
 
-- 🧠 I am interested in deep learning & functional uses of ML
-- 🌱 I’m currently re-learning React and more web based technologies
+- 🧠 I am interested in deep learning & interesting uses of ML
+- 🌱 I’m currently re-learning React and other web based technologies
 - 🥅 2021 Goals: Adapt to life after university
 - ⚡ Fun fact: I love going to gym and pushing myself!
 - 🌐 Find out more at my (currently under construction) personal site: [lukemccl.github.io](https://lukemccl.github.io)
