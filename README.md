@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=https://lukemccl.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lukemccl.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=984385260)
 
-### I'm a full stack developer who has a major focus in AI!!
+### I'm a full stack developer with a major focus in AI!!
 
 - 🏫 I have a Masters degree in Computer Science with AI (First class hons)
 - 🧠 I am interested in deep learning & interesting uses of ML
