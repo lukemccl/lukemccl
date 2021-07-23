@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukemccl&show_icons=true&include_all_commits=true&theme=nord&line_height=27" alt="Luke's github stats" />
 </a>
 <a href="https://github.com/lukemccl/lukemccl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemccl&theme=nord&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemccl&layout=compact&theme=nord" />
 </a>
 
 ### Connect with me:
