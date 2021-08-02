@@ -5,7 +5,6 @@
 
 ### I'm a full stack developer with a focus in AI!
 
-- 🏫 I have a Masters degree in Computer Science with AI (First class hons)
 - 🧠 I am interested in deep learning & interesting uses of ML
 - 🌱 I’m currently re-learning React and other web based technologies
 - 🥅 2021 Goals: Develop my experience in new technologies
