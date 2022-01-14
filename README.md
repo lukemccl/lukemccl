@@ -1,4 +1,4 @@
-# Hi there, I'm [Luke](https://lukemccl.github.io) 👋
+# Hi there, I'm Luke 👋
 
 [![Website](https://img.shields.io/website?label=https://lukemccl.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lukemccl.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/luke_mccl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=984385260)
@@ -9,7 +9,6 @@
 - 🌱 I’m currently re-learning React and other web based technologies
 - 🥅 2021 Goals: Develop my experience in new technologies
 - ⚡ Fun fact: I love going to gym and pushing myself!
-- 🌐 Find out more at my (currently under construction) personal site: [lukemccl.github.io](https://lukemccl.github.io)
 
 ## &#128295; Languages and Tools:
 
