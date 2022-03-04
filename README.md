@@ -12,17 +12,18 @@
 
 ## &#128295; Languages and Tools:
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch) 
-![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) 
-![Node](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)  
-![REACT](https://img.shields.io/badge/React-05122A?style=flat&logo=react) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch)
+![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)
+![REACT](https://img.shields.io/badge/React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Node](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## &#x1f4c8; GitHub Stats
