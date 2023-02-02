@@ -37,7 +37,6 @@
 ### Connect with me:
 
 [<img align="left" style="filter: invert(100%)" alt="https://lukemccl.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" style="filter: invert(100%)" alt="luke_mccl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style="filter: invert(100%)" alt="Luke McClure | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="filter: invert(100%)" alt="l.mccl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
