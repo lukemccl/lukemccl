@@ -6,7 +6,7 @@
 
 - 🧠 I am interested in deep learning & interesting uses of ML
 - 🌱 I’m currently re-learning React and other web based technologies
-- 🥅 2022 Goals: Develop my experience in new technologies
+- 🥅 Year Goals: Develop my experience in new technologies
 - ⚡ Fun fact: I love going to gym and pushing myself!
 
 ## &#128295; Languages and Tools:
